@@ -1,20 +1,12 @@
 <!-- Header -->
-<div align="center">
+# Hi, I'm Yudha Putra Anangga 👋
+### Full-Stack Developer | React & Laravel Enthusiast
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=200&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20React%20%26%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=180&section=header&text=Yudha%20Putra%20Anangga&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
-  <!-- Badges Kontak & Socials -->
-  <a href="https://linkedin.com/in/yudha-putra-anangga">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yuda99354@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Yudhaaa-code">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudha-putra-anangga)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuda99354@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yudhaaa-code)
 
 <br/>
 
