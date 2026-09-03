@@ -1,8 +1,5 @@
 <!-- Header -->
-# Hi, I'm Yudha Putra Anangga 👋
-### Full-Stack Developer | React & Laravel Enthusiast
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=180&section=header&text=Yudha%20Putra%20Anangga&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=200&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20and%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudha-putra-anangga)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuda99354@gmail.com)
@@ -12,12 +9,12 @@
 
 ---
 
-### 🚀 **Overview**
+### 🚀 **About Me**
 
-Halo! Saya **Yudha Putra Anangga**, seorang **Software Developer** asal Indonesia yang berfokus pada pengembangan aplikasi web modern yang cepat, terstruktur, dan responsif. 
+Hi there! I'm **Yudha Putra Anangga**, a **Software Developer** from Indonesia focused on building modern, fast, well-structured, and responsive web applications. 
 
 * 💻 **Primary Tech:** Laravel, React.js, Tailwind CSS, & MySQL.
-* 🛠️ **Current Project:** Mengembangkan aplikasi portofolio interaktif berbasis **React + Vite** dengan fitur multi-bahasa (i18n).
+* 🛠️ **Current Project:** Building an interactive portfolio app using **React + Vite** with multi-language (i18n) support.
 * 🎯 **Focus Area:** Clean Architecture, Responsive UI/UX Design, & RESTful API Development.
 
 ---
@@ -53,23 +50,23 @@ Halo! Saya **Yudha Putra Anangga**, seorang **Software Developer** asal Indonesi
 
 > **[WebKompre](https://github.com/Yudhaaa-code/webkompre)**
 > 
-> Platform berbasis Laravel & MySQL untuk pengelolaan dan pelaksanaan ujian komprehensif secara efisien.
+> A Laravel & MySQL-based platform designed for efficient management and execution of comprehensive examinations.
 
 > **[PPSI](https://github.com/Yudhaaa-code/ppsi)**
 > 
-> Sistem Informasi Perencanaan & Pengembangan Perangkat Lunak untuk pemetaan dan manajemen proyek IT.
+> Software Planning & Development Information System built for IT project mapping and management.
 
 > **[IMKBRO](https://github.com/Yudhaaa-code/IMKBRO)**
 > 
-> Aplikasi web interaktif untuk pengelolaan materi, tugas, dan praktikum Interaksi Manusia & Komputer.
+> An interactive web application for managing coursework, assignments, and practical sessions in Human-Computer Interaction (HCI).
 
 ---
 
 ### 📊 **GitHub Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yudhaaa-code&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhaaa-code&layout=compact&theme=synthwave&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats-coral-beta-46.vercel.app/api?username=Yudhaaa-code&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-coral-beta-46.vercel.app/api/top-langs/?username=Yudhaaa-code&layout=compact&theme=synthwave&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 ---
