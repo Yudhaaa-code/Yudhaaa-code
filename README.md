@@ -1,6 +1,6 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=220&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=200&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20and%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn)
+
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudha-putra-anangga)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuda99354@gmail.com)
