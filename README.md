@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=200&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20and%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn)
 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yudhaanangga)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhaanangga/?isSelfProfile=true)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuda99354@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yudhaaa-code)
 </div>
