@@ -53,16 +53,16 @@ Hi there! I'm **Yudha Putra Anangga**, a **Software & Full-Stack Developer** bas
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>📂 <a href="https://github.com/Yudhaaa-code/webkompre">WebKompre</a></h4>
-      <p>A web-based platform built with <b>Laravel & MySQL</b> designed for structured management and streamlined administration of comprehensive student examinations.</p>
+      <h4>📁 <a href="https://github.com/Yudhaaa-code/Manajemen-Proyek">Manajemen-Proyek</a></h4>
+      <p>A project management web application built with <b>TypeScript</b> to streamline task scheduling, progress tracking, and team workflow management.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📂 <a href="https://github.com/Yudhaaa-code/ppsi">PPSI</a></h4>
-      <p>A Software Planning & Information System tailored for software engineering project management, system mapping, and requirement tracking.</p>
+      <h4>📁 <a href="https://github.com/Yudhaaa-code/Biograf-Kroos">Biograf-Kroos</a></h4>
+      <p>An interactive frontend showcase built with <b>JavaScript</b> highlighting the career achievements, milestones, and biography of Toni Kroos.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📂 <a href="https://github.com/Yudhaaa-code/IMKBRO">IMKBRO</a></h4>
-      <p>An interactive courseware web app designed for Human-Computer Interaction (HCI) assignment submissions, tracking, and lab coordination.</p>
+      <h4>📁 <a href="https://github.com/Yudhaaa-code/E-Commerce">E-Commerce</a></h4>
+      <p>A modern e-commerce web platform featuring dynamic product catalogs, shopping cart management, and streamlined checkout flows.</p>
     </td>
   </tr>
 </table>
