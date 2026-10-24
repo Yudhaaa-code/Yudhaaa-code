@@ -1,21 +1,21 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=200&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20and%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=220&section=header&text=Yudha%20Putra%20Anangga&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Laravel%20Enthusiast&descAlignY=58&descColor=dfe6e9&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudha-putra-anangga)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuda99354@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yudhaaa-code)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudha-putra-anangga)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuda99354@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yudhaaa-code)
+</div>
 
 <br/>
 
----
-
 ### 🚀 **About Me**
 
-Hi there! I'm **Yudha Putra Anangga**, a **Software Developer** from Indonesia focused on building modern, fast, well-structured, and responsive web applications. 
+Hi there! I'm **Yudha Putra Anangga**, a **Software & Full-Stack Developer** based in Indonesia, passionate about crafting scalable, performant, and responsive web applications.
 
-* 💻 **Primary Tech:** Laravel, React.js, Tailwind CSS, & MySQL.
-* 🛠️ **Current Project:** Building an interactive portfolio app using **React + Vite** with multi-language (i18n) support.
-* 🎯 **Focus Area:** Clean Architecture, Responsive UI/UX Design, & RESTful API Development.
+- 💻 **Primary Stack:** Laravel, React.js, Tailwind CSS, & MySQL.
+- 🛠️ **Current Focus:** Building an interactive portfolio application using **React + Vite** with multi-language (i18n) support.
+- 🎯 **Specialties:** Clean Architecture, RESTful API Design, Relational Database Modeling, & Modern UI/UX.
 
 ---
 
@@ -23,23 +23,25 @@ Hi there! I'm **Yudha Putra Anangga**, a **Software Developer** from Indonesia f
 
 <div align="center">
 
-#### **Frontend Development**
+**Frontend Development**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **Backend & Database**
+**Backend & Database**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### **Development Tools**
+**Dev Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -48,33 +50,40 @@ Hi there! I'm **Yudha Putra Anangga**, a **Software Developer** from Indonesia f
 
 ### 📌 **Featured Repositories**
 
-> **[WebKompre](https://github.com/Yudhaaa-code/webkompre)**
-> 
-> A Laravel & MySQL-based platform designed for efficient management and execution of comprehensive examinations.
-
-> **[PPSI](https://github.com/Yudhaaa-code/ppsi)**
-> 
-> Software Planning & Development Information System built for IT project mapping and management.
-
-> **[IMKBRO](https://github.com/Yudhaaa-code/IMKBRO)**
-> 
-> An interactive web application for managing coursework, assignments, and practical sessions in Human-Computer Interaction (HCI).
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📂 <a href="https://github.com/Yudhaaa-code/webkompre">WebKompre</a></h4>
+      <p>A web-based platform built with <b>Laravel & MySQL</b> designed for structured management and streamlined administration of comprehensive student examinations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📂 <a href="https://github.com/Yudhaaa-code/ppsi">PPSI</a></h4>
+      <p>A Software Planning & Information System tailored for software engineering project management, system mapping, and requirement tracking.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📂 <a href="https://github.com/Yudhaaa-code/IMKBRO">IMKBRO</a></h4>
+      <p>An interactive courseware web app designed for Human-Computer Interaction (HCI) assignment submissions, tracking, and lab coordination.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 **GitHub Metrics**
+### 📊 **GitHub Activity & Metrics**
 
-<p align="center">
-  <img src="https://github-readme-stats-coral-beta-46.vercel.app/api?username=Yudhaaa-code&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-coral-beta-46.vercel.app/api/top-langs/?username=Yudhaaa-code&layout=compact&theme=synthwave&hide_border=true&langs_count=6" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yudhaaa-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Yudha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhaaa-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yudhaaa-code&theme=tokyonight&hide_border=true" width="97%" alt="Yudha's GitHub Streak" />
+</div>
 
 ---
 
 <div align="center">
 
-  <sub>Designed & Developed with ❤️ by <b>Yudha Putra Anangga</b></sub>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=80&section=footer" width="100%"/>
+  <sub>Designed & Built by <b>Yudha Putra Anangga</b></sub>  
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0984E3&height=90&section=footer" width="100%"/>
 
 </div>
